@@ -1,4 +1,4 @@
-# firt-API
+# first-API
 Construindo a minha primeira API utilizando a linguagem python, API bem simples desenvolvida somente a fins de aprendizagem da linguagem Python e do Framework FastAPI.
 
 ## Detalhes da API
